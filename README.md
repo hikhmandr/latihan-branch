@@ -1,3 +1,4 @@
 # latihan-branch
 # ini adalah repository untuk latihan branch baru di github
-# belajat github itu seru
+# belajat github itu asik
+
